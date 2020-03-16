@@ -24,3 +24,6 @@ Input data is stored by default at D:\3Mcor-protocol\top\data
 The output data is stored by default at D:\3Mcor-protocol\top\result
 
 For more information, please see the manual.pdf
+reference:
+1. A computational framework to integrate high-throughput ‘-omics’ datasets for the identification of potential mechanistic links, https://doi.org/10.1038/s41596-018-0064-z
+2. WGCNA: an R package for weighted correlation network analysis
